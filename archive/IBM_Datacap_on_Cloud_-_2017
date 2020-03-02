@@ -1,0 +1,318 @@
+<center>
+<table border="0" dir="ltr" width="60%">
+<tbody>
+<tr>
+	<td colspan="2" style="width:40%;vertical-align:middle;height:15px;text-align:center;font-size:14px;font-family:&#39;helvetica neue&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;text-align:center>
+
+		<p>&nbsp;</p>
+	</td>
+</tr>
+<tr>	
+	<td style="width:60%;vertical-align:middle;text-align:left;font-size:14px;font-family:&#39;helvetica neue&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;>
+		<p dir="ltr"><a href="https://ibm-learning-skills-dev.github.io/ibm-learning-skills-dev.github.io/badges/Enterprise_Content_Manager.html"><strong>Return to the Enterprise Content Manager Badges page</strong></a></p>
+		<p dir="ltr"><span style="font-size:32px">IBM Datacap on Cloud - 2017</span></p>
+		<p dir="ltr" style="text-align:left"><span style="font-size:16px">IBM® Datacap helps you streamline the capture, recognition and classification of business documents and extract important information. Datacap supports multiple-channel capture by processing paper documents on scanners, mobile devices, multi-function peripherals and fax. It uses natural language processing, text analytics and machine learning technologies, like those in IBM Watson, to automatically identify, classify and extract content from unstructured or variable documents. The software can reduce labor and paper costs, deliver meaningful information and support faster decision making.</p>
+		<p dir="ltr"><span style="font-size:16px">Click on any of the badged activities below to learn what it takes to earn that credential.</span></p>
+		<p dir="ltr"><span style="font-size:18px;color:rgb( 255 , 0 , 0 )"><strong>These badges will all be archived on March 1, 2020. <a href="https://ibm-learning-skills-dev.github.io/ibm-learning-skills-dev.github.io/badges/IBM_Datacap_on_Cloud_-_2018.html">Click here</a> to earn the Datacap 2018 badges.</strong></span></p>
+		
+	</td>
+	<td style="width:40%;vertical-align:middle;text-align:center;font-size:14px;font-family:&#39;helvetica neue&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;>
+
+		<p dir="ltr"><a href="https://ibm-learning-skills-dev.github.io/ibm-learning-skills-dev.github.io/badges/badgemain.html"><img alt="Open badges" src="https://ibm-learning-skills-dev.github.io/ibm-learning-skills-dev.github.io/badges/IBM-Cloud-Badge-Small-Picture.png" style="margin-left:10px;margin-right:10px;width:234px;height:100px" /></a>
+
+		<p dir="ltr">Have general questions about IBM Cloud badges?</p>
+
+		<p dir="ltr">Contact us at <strong><a href="mailto:camedct&#64;us.ibm.com">camedct&#64;us.ibm.com</a></strong></p>
+
+		<p dir="ltr" style="text-align:center"> </p>
+
+	</td>
+</tr>
+</tbody>
+</table>
+
+<table border="0" cellpadding="5" dir="ltr" height="259" width="60%" style="font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif; font-size:12px; text-align:left; width="60%">
+<tbody>
+
+<tr>
+<td colspan="2" style="width:657px">
+<p><span style="font-size:24px">Group 1 of 2 - Datacap on Cloud - Application Builder</span></p>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/1885a305-b9af-4432-a39d-b3b5d414015e/Datacap%2Bon%2BCloud%2B-%2BApplication%2BBuilder%2B2017%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - Application Builder - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">This badge earner demonstrates an understanding of the key capabilities and core concepts of IBM Datacap FastDoc and Datacap Studio tools. The individual can build Datacap applications from Form and Learning Templates for processing batches.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Architecture Batch Processing Building Applications CDO_Hierarchy Datacap Datacap_Desktop Datacap_Navigator Datacap_Studio FastDoc Fingerprints Processes Rulesets Template Tmweb Workflow</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li>Earn the Datacap Essentials badge</li>
+		<li>Earn the Build Applications with FastDoc badge</li>
+		<li>Earn the IBM Datacap on Cloud - Define Applications with Datacap Studio - 2017</li>
+	</ul>
+<br>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/79bc2178-1bed-4cba-9fbb-88582134a5f2/Datacap%2Bon%2BCloud%2BEssentials-%2BKnowledge%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - Datacap Essentials - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">This badge earner is able to identify the key benefits, capabilities, and core concepts of IBM Datacap: Components of Datacap, architecture, process batches using Datacap clients, and basics of application design.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Architecture Batch Processing Datacap Datacap_Desktop Datacap_Navigator Processes Tmweb</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li><a href="https://www.onlinedigitallearning.com/course/view.php?id&#61;3072" id="wikiLink1486679204218">Pass the IBM Datacap Essentials quiz with 80% or better</a></li>
+		<li><a href="http://www.ibm.com/support/knowledgecenter/SSZRWV_9.0.1/com.ibm.datacaptoc.doc/datacap_9.0.1.htm">Optional: Recommended Reading: IBM Datacap documentation</a></li>
+		<li><a href="http://www.redbooks.ibm.com/abstracts/sg247969.html?Open">Optional: Review the &#34;Implementing Document Imaging and Capture Solutions with IBM Datacap&#34; Redbook</a></li>
+		<li><a href="http://www.ibm.com/training/course/F251G">Optional: take the &#34;F251G - IBM Datacap 9.0.1 - Introduction&#34; course</a></li>
+	</ul>
+	<p dir="ltr" style="font-size:14px">Note: To access this quiz and receive your badge, you must have an IBM ID with the same email address used for your Acclaim account. To obtain an IBM ID <a href="https://www.ibm.com/account/us-en/signup/register.html">please click here. </a></p>
+<br>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/1a55c547-8974-4ef4-86b1-b8d6e08418c2/Datacap%2Bon%2BCloud%2BFastDoc-%2BKnowledge%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - Build Applications with FastDoc - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">This badge earner demonstrates an understanding of the key capabilities and core concepts of the IBM Datacap FastDoc tool. The earner can create Datacap applications from a template and configure it for processing batches.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Batch Processing Building Applications Data Export Datacap FastDoc Fingerprints Form_Template Keyword Learning_Template Rulesets</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li><a href="https://www.onlinedigitallearning.com/course/view.php?id&#61;3073" id="wikiLink1486679312416">Pass the Build Applications with FastDoc quiz with 80% or better</a></li>
+		<li><a href="http://www.ibm.com/support/knowledgecenter/SSZRWV_9.0.1/com.ibm.datacaptoc.doc/datacap_9.0.1.htm">Optional: Recommended Reading: IBM Datacap documentation</a></li>
+		<li><a href="http://www.redbooks.ibm.com/abstracts/sg247969.html?Open">Optional: Review the &#34;Implementing Document Imaging and Capture Solutions with IBM Datacap&#34; Redbook</a></li>
+		<li><a href="http://www.ibm.com/training/course/F252G">Optional: take the &#34;F252G - IBM Datacap 9.0.1 - FastDoc Local Mode&#34;</a> and<a href="http://www.ibm.com/training/course/F253G"> &#34;F253G - IBM Datacap 9.0.1 - FastDoc Server Mode&#34; courses.</a></li>
+
+	</ul>
+	<p dir="ltr" style="font-size:14px">Note: To access this quiz and receive your badge, you must have an IBM ID with the same email address used for your Acclaim account. To obtain an IBM ID <a href="https://www.ibm.com/account/us-en/signup/register.html">please click here. </a></p>
+<br>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/346ef2ad-db12-4ee2-ac8c-cdf07a241000/Datacap%2Bon%2BCloud%2BDatacap%2BStudio%2B-%2BKnowledge%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - Define Applications with Datacap Studio - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">This badge earner demonstrates an understanding of the key capabilities and core concepts of the IBM Datacap Studio tool. The earner can define and configure Datacap applications to process batches.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Building Applications DCO_Hierarchy Datacap Datacap_Studio Rulesets Testing Workflow</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li><a href="https://www.onlinedigitallearning.com/course/view.php?id&#61;3074" id="wikiLink1486679409348">Pass the Define Applications with Datacap Studio quiz with 80% or better</a></li>
+		<li><a href="http://www.ibm.com/support/knowledgecenter/SSZRWV_9.0.1/com.ibm.datacaptoc.doc/datacap_9.0.1.htm">Optional: Recommended Reading: IBM Datacap documentation</a></li>
+		<li><a href="http://www.redbooks.ibm.com/abstracts/sg247969.html?Open">Optional: Review the &#34;Implementing Document Imaging and Capture Solutions with IBM Datacap&#34; Redbook</a></li>
+		<li><a href="http://www.ibm.com/training/course/F254G">Optional: take the &#34;F254G - IBM Datacap 9.0.1 - FastDoc MultiPage Document&#34; </a> and<a href="http://www.ibm.com/training/course/F255G"> &#34;F255G - IBM Datacap 9.0.1 - Datacap Studio&#34; courses</a></li>
+	</ul>
+	<p dir="ltr" style="font-size:14px">Note: To access this quiz and receive your badge, you must have an IBM ID with the same email address used for your Acclaim account. To obtain an IBM ID <a href="https://www.ibm.com/account/us-en/signup/register.html">please click here. </a></p>
+<br>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" style="width:657px">
+<p><span style="font-size:24px">Group 2 of 2 - Datacap on Cloud - Administrator</span></p>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/bcaa1389-151e-4297-947e-12e72b4d808f/Datacap%2BAdmin%2B2017%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - Administrator - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">The badge earner demonstrates understanding of IBM Datacap configuration, administration, security, and maintenance. The badge earner can configure Datacap components including servers, clients, and Datacap Navigator on a single and multiple systems. The badge earner can also setup Datacap authentication modes and encryption, configure workstation filters, event logs, and globalization, and migrate data from Access to DB2 databases.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Datacap, Rulerunner, Dashboard, Report Viewer,  queue, logs, encryption keys, privileges, permissions, authentication, ADSI, LLLDAP, security, Datacap Navigator, User Settings,  custom panels, EDS, Transactional Capture</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li>Earn the IBM Datacap on Cloud - Datacap Essentials 2017 badge</li>
+		<li>Earn the Datacap System Configuration &amp; Administration - 2017 badge</li>
+		<li>Earn the Datacap Security- 2017 badge</li><li>Earn the Datacap Navigator Configuration- 2017 badge</li>
+	</ul>
+<br>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/79bc2178-1bed-4cba-9fbb-88582134a5f2/Datacap%2Bon%2BCloud%2BEssentials-%2BKnowledge%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - Datacap Essentials - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">This badge earner is able to identify the key benefits, capabilities, and core concepts of IBM Datacap: Components of Datacap, architecture, process batches using Datacap clients, and basics of application design.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Architecture Batch Processing Datacap Datacap_Desktop Datacap_Navigator Processes Tmweb</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li><a href="https://www.onlinedigitallearning.com/course/view.php?id&#61;3072" id="wikiLink1486679204218">Pass the IBM Datacap Essentials quiz with 80% or better</a></li>
+		<li><a href="http://www.ibm.com/support/knowledgecenter/SSZRWV_9.0.1/com.ibm.datacaptoc.doc/datacap_9.0.1.htm">Optional: Recommended Reading: IBM Datacap documentation</a></li>
+		<li><a href="http://www.redbooks.ibm.com/abstracts/sg247969.html?Open">Optional: Review the &#34;Implementing Document Imaging and Capture Solutions with IBM Datacap&#34; Redbook</a></li>
+		<li><a href="http://www.ibm.com/training/course/F251G"">Optional: take the &#34;F251G - IBM Datacap 9.0.1 - Introduction&#34; course</a></li>
+	</ul>
+<br>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/a72e6534-f96c-45f8-acd0-a7f1c4533a08/Datacap%2BSys%2BConf%2B-%2BAdmin%2B2017%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - System Configuration &amp; Administration - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">The badge earner demonstrates understanding of IBM Datacap configuration, administration, and maintenance. The badge earner can configure Datacap Server, Datacap Web Server, clients, and other Datacap components on a single and multiple systems. The badge earner can also configure workstation filters, event logs, and globalization, and migrate data from Access to DB2 databases.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Datacap, Datacap Web Services, Datacap Web Client, Rulerunner, Maintenance Manager, Datacap Dashboard, Datacap Report Viewer, virtual station, queue, globalization, event logs</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li><a href="https://www.onlinedigitallearning.com/course/view.php?id&#61;3075" id="wikiLink1490048288577">Complete the System Configuration &amp; Administration quiz with 80% or better</a></li>
+		<li><a href="http://www.ibm.com/support/knowledgecenter/SSZRWV_9.0.1/com.ibm.datacaptoc.doc/datacap_9.0.1.htm">Optional: Recommended Reading: IBM Datacap documentation</a></li>
+		<li><a href="http://www.redbooks.ibm.com/abstracts/sg247969.html?Open">Optional: Review the &#34;Implementing Document Imaging and Capture Solutions with IBM Datacap&#34; Redbook</a></li>
+		<li><a href="https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType&#61;course_description&amp;cc&#61;&amp;courseCode&#61;F256G&amp;gtpcc&#61;">Optional: take the F256G - IBM Datacap 9.0.1 - Datacap Configuration course.</a></li>
+		<li><a href="https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType&#61;course_description&amp;cc&#61;&amp;courseCode&#61;F258G">Optional: take the F258G - IBM Datacap 9.0.1 - Administration course.</a></li>
+	</ul>
+	<p dir="ltr" style="font-size:14px">Note: To access this quiz and receive your badge, you must have an IBM ID with the same email address used for your Acclaim account. To obtain an IBM ID <a href="https://www.ibm.com/account/us-en/signup/register.html">please click here. </a></p>
+<br>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/cd19717d-49f0-44eb-be01-9c707b67c339/Datacap%2BSecurity%2B-%2BAdmin%2B2017%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - Security  - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">The badge earner demonstrates understanding of the core concepts of IBM Datacap security.  The badge earner can setup Datacap authentication modes and encryption, create Datacap security users and groups, and configure Datacap Server for LLLDAP user authentication.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Datacap, encryption keys, privileges, permissions, authentication, ADSI, LLLDAP, security</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li><a href="https://www.onlinedigitallearning.com/course/view.php?id&#61;3076" id="wikiLink1489615125091">Complete the &#34;Security&#34; Quiz with 80% or better</a></li>
+		<li><a href="http://www.ibm.com/support/knowledgecenter/SSZRWV_9.0.1/com.ibm.datacaptoc.doc/datacap_9.0.1.htm">Optional: Recommended Reading: IBM Datacap documentation</a></li>
+		<li><a href="http://www.redbooks.ibm.com/abstracts/sg247969.html?Open">Optional: Review the &#34;Implementing Document Imaging and Capture Solutions with IBM Datacap&#34; Redbook</a></li>
+		<li><a href="https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType&#61;course_description&amp;cc&#61;&amp;courseCode&#61;F256G&amp;gtpcc&#61;">Optional: take the F256G - IBM Datacap 9.0.1 - Datacap Configuration course.</a></li>
+		<li><a href="https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType&#61;course_description&amp;cc&#61;&amp;courseCode&#61;F258G">Optional: take the F258G - IBM Datacap 9.0.1 - Administration course.</a></li>
+	</ul>
+	<p dir="ltr" style="font-size:14px">Note: To access this quiz and receive your badge, you must have an IBM ID with the same email address used for your Acclaim account. To obtain an IBM ID <a href="https://www.ibm.com/account/us-en/signup/register.html">please click here. </a></p>
+<br>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align:top;width:20%">
+<img src="https://images.youracclaim.com/images/64dd2dce-c931-448b-8c52-c6e794d4d1d1/Datacap%2BNav%2BConfig%2B-%2B2017%2Bv2.png" style="vertical-align:middle;width:100%">
+</td>
+
+<td style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>IBM Datacap on Cloud - Datacap Navigator Configuration - 2017</strong></p>
+	<p dir="ltr" style="font-size:14px">The badge earner demonstrates understanding of the key capabilities of IBM Datacap Navigator.  The earner can configure and customize Datacap Navigator.</p>
+	<p dir="ltr" style="font-size:14px"><strong>Skills: </strong>Datacap, Datacap Navigator, User Settings, Rescan, Single Sign On, custom panels, External Data Services, EDS, Transactional Capture, customization</p>
+	<p dir="ltr" style="font-size:14px"><strong>To earn this badge:</strong></p>
+	<ul><span style="font-size:14px">
+		<li><a href="https://www.onlinedigitallearning.com/course/view.php?id&#61;3077" id="wikiLink1489615726760">Complete the &#34;Datacap Navigator Configuration&#34; Quiz with 80% or better</a></li>
+		<li><a href="http://www.ibm.com/support/knowledgecenter/SSZRWV_9.0.1/com.ibm.datacaptoc.doc/datacap_9.0.1.htm">Optional: Recommended Reading: IBM Datacap documentation</a></li>
+		<li><a href="http://www.redbooks.ibm.com/abstracts/sg247969.html?Open">Optional: Review the &#34;Implementing Document Imaging and Capture Solutions with IBM Datacap&#34; Redbook</a></li>
+		<li><a href="https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType&#61;course_description&amp;cc&#61;&amp;courseCode&#61;F257G">Optional: take the &#34;F257G - IBM Datacap 9.0.1 - Datacap Navigator Configuration&#34; course.</a></li>
+	</ul>
+	<p dir="ltr" style="font-size:14px">Note: To access this quiz and receive your badge, you must have an IBM ID with the same email address used for your Acclaim account. To obtain an IBM ID <a href="https://www.ibm.com/account/us-en/signup/register.html">please click here. </a></p>
+<br>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" style="vertical-align:middle;width:80%;style="color:rgb( 34 , 34 , 34 );font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif;font-size:12px">
+	<p dir="ltr" style="font-size:16px"><strong>Note:  Proficiency Badges are currently issued manually in a batch process and may take some time before they are released.</strong></p>
+
+<br>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<p dir="ltr"> </p>
+
+<p dir="ltr"> </p>
+
+<table border="1" dir="ltr" width="60%" style="font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif; font-size:12px; text-align:left; width="60%">
+
+<tr>
+<td style="border-bottom-color:rgb( 211 , 211 , 211 );border-bottom-style:dotted;border-bottom-width:1px;border-left-color:rgb( 211 , 211 , 211 );border-left-style:dotted;border-left-width:1px;border-right-color:rgb( 211 , 211 , 211 );border-right-style:dotted;border-right-width:1px;border-top-color:rgb( 211 , 211 , 211 );border-top-style:dotted;border-top-width:1px;width:40%">
+<a href="https://www.ibm.com/services/learning/M425350C34234U21" style="color:rgb( 25 , 112 , 176 );text-decoration:none" target="_blank">
+<img alt="" src="https://ibm-learning-skills-dev.github.io/ibm-learning-skills-dev.github.io/badges/ibm-badge-search.png"
+style="margin-left:10px;margin-right:10px;width:300px;height:80px" />
+</td>
+
+<td style="border-bottom-color:rgb( 211 , 211 , 211 );border-bottom-style:dotted;border-bottom-width:1px;border-left-color:rgb( 211 , 211 , 211 );border-left-style:dotted;border-left-width:1px;border-right-color:rgb( 211 , 211 , 211 );border-right-style:dotted;border-right-width:1px;border-top-color:rgb( 211 , 211 , 211 );border-top-style:dotted;border-top-width:1px;width:40%">
+<a href="https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType&#61;page&amp;c&#61;P430723G05904L37" style="color:rgb( 25 , 112 , 176 );text-decoration:none" target="_blank">
+<img alt="" src="https://ibm-learning-skills-dev.github.io/ibm-learning-skills-dev.github.io/badges/support-faq.png"
+style="margin-left:10px;margin-right:10px;width:300px;height:80px" />
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+
+<table border="0" dir="ltr" width="60%" style="font-family:&#39;arial&#39; , &#39;helvetica&#39; , sans-serif; font-size:12px; text-align:left; width="60%">
+<tbody>
+<tr>
+	<td style="width:60%;vertical-align:middle;text-align:left;font-size:14px;font-family:&#39;helvetica neue&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;>
+		<p><font face="Arial, Verdana, sans-serif">&nbsp;</font></p>
+		<p><font face="Arial, Verdana, sans-serif"><strong>NOTICE:</strong></font></p>
+		<p dir="ltr">IBM leverages the services of Credly&#39;s Acclaim platform, a third party data processor authorized by IBM and located in the United States, to assist in the administration of the IBM Digital Badge program. In order to issue you an IBM Digital Badge, your personal information (name, email address, and badge earned) will be shared with Credly&#39;s Acclaim platform.  You will receive an email notification from Acclaim with instructions for claiming the badge. Your personal information is used to issue your badge and for program reporting and operational purposes. It will be handled in a manner consistent with IBM privacy practices.  The IBM Privacy Statement can be viewed at <a href="https://www.ibm.com/privacy/us/en/">https://www.ibm.com/privacy/us/en/</a>. IBM employees can view the IBM Internal Privacy Statement at <a href="https://w3.ibm.com/w3publisher/w3-privacy-notice">https://w3.ibm.com/w3publisher/w3-privacy-notice</a>.</p>
+	</td>
+</tr>
+<tr>
+	<td style="width:60%;vertical-align:middle;text-align:left;font-size:14px;font-family:&#39;helvetica neue&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;>
+		<p><font face="Arial, Verdana, sans-serif">&nbsp;</font></p>
+		<p><font face="Arial, Verdana, sans-serif"><strong>What earning a digital badge represents</strong></font></p>
+		<p dir="ltr">A Digital Badge is a cross-industry recognition of technical knowledge and skills, which can be posted to your social and professional networking sites, as well as your digital signature. IBM Cloud is supporting this new program, based on the Open Badge Standards, through the creation of a broad range of badged activities covering multiple subject matter.</p>
+	</td>
+</tr>
+<tr>
+	<td style="width:60%;vertical-align:middle;text-align:left;font-size:14px;font-family:&#39;helvetica neue&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;>
+		<p><font face="Arial, Verdana, sans-serif">&nbsp;</font></p>
+		<p><font face="Arial, Verdana, sans-serif"><strong>IBM digital badges provide you with significant benefits:</strong></font></p>
+		<ul>
+			<li>Digital and easily shareable version of your credentials</li>
+			<li>Recognition of industry aligned skills</li>
+			<li>Globally recognized standard</li>
+			<li>Free access to a digital badge wallet for easy management of your badges</li>
+			<li>Secure and verifiable means of storing and publishing your credentials</li>
+		</ul>
+	</td>
+</tr>
+<tr>
+	<td style="width:60%;vertical-align:middle;text-align:left;font-size:14px;font-family:&#39;helvetica neue&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;>
+		<p><font face="Arial, Verdana, sans-serif">&nbsp;</font></p>
+		<p><font face="Arial, Verdana, sans-serif"><strong>How do I earn an IBM Cloud badge?</strong></font></p>
+		<p dir="ltr">In most cases, you will be required to complete a learning activity along with an end-of-course assessment. In some cases, you may be required to complete multiple learning activities and assessments, or submit evidence of your qualification depending upon the badged activity.</p>
+	</td>
+</tr>
+<tr>
+	<td style="width:60%;vertical-align:middle;text-align:left;font-size:14px;font-family:&#39;helvetica neue&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;>
+		<p><font face="Arial, Verdana, sans-serif">&nbsp;</font></p>
+		<p><font face="Arial, Verdana, sans-serif"><strong>How do I get my badge?</strong></font></p>
+		<p dir="ltr">After you have satisfied the necessary criteria, you will receive an email from Credly&#39;s Acclaim service (<strong><a href="mailto:admin&#64;youracclaim.com">admin&#64;youracclaim.com</a></strong>) within three to five business days, which will have instructions for accepting your badge. Click the <strong>Accept </strong>button in the email to claim your badge. You will be re-directed to Credly&#39;s Acclaim, the IBM badge program administration partner. If it is your first time earning an IBM badge, you will be asked to create a profile. You can then add the badge to your profile.</p>
+		<p dir="ltr">Credly&#39;s Acclaim is a third party badge administration partner for IBM that is widely accepted throughout the industry for issuing and managing verified and trusted digital badges. Credly&#39;s Acclaim uses your name and email address details (which are provided by IBM) to facilitate the badge issuing transaction process.</p>
+		<p dir="ltr">If you do not wish to claim your badge, simply ignore the email you receive from Credly&#39;s Acclaim service.</p>
+	</td>
+</tr>
+</tbody>
+</table>
